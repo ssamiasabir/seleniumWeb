@@ -28,11 +28,6 @@ void checkTitle(String givenTitile) {
 		System.out.println("Test Failed");
 	}
 }
-
-
-
-
-
 }
 	
 	
